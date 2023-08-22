@@ -72,10 +72,10 @@ margin: 0px;
 }
 /* Add styles to the form container */
 .form-container {
-  width: 700px;
+  width: 400px;
   height: 300px;
   padding: 10px;
-  background-color: rgba(16, 133, 151, 0.7);
+  background-color: rgba(81, 141, 224, 0.7);
 }
 .form-container input {
   width: 90%;
@@ -100,10 +100,10 @@ margin: 0px;
   font-size: 18px;
 }
 .form-container #save-btn {
-  background-color: rgb(130, 189, 107);
+  background-color: rgb(23, 224, 33);
 }
 .form-container #cancel-btn {
-  background-color: rgb(241, 121, 109);
+  background-color: rgb(236, 44, 26);
 }
 
 
