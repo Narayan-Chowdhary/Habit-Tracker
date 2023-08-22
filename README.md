@@ -1,9 +1,5 @@
 # Habit-Tracker
 
-
-
-# NodeJs-Authentication
-
  -------  Run "" npm i  ""  command to install all the dependencies 
  
 ---------Run """ node index.js  """ commant to start the server 
